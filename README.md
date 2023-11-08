@@ -8,3 +8,8 @@ npm run dev
 ```
 npm init -y
 ```
+### second step add backend libraries
+express 
+```
+npm i express
+```
