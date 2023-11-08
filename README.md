@@ -4,3 +4,7 @@ To create a back-end libraries
 ```
 npm run dev
 ```
+### First step
+```
+npm init -y
+```
